@@ -1,0 +1,8 @@
+[
+  {
+    "package": "epiworldR",
+    "url": "https://github.com/UofUEpiBio/epiworldR",
+    "via": ["epiworldRShiny"],
+    "from": "epiworldRShiny"
+  }
+]
