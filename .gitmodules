@@ -1,13 +1,19 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/uofuepibio/uofuepibio.r-universe.dev
 	branch = HEAD
 [submodule "SensIAT"]
 	path = SensIAT
-	url = https://github.com/uofuepibio/sensiat
+	url = https://github.com/UofUEpiBio/SensIAT
+[submodule "citer"]
+	path = citer
+	url = https://github.com/UofUEpiBio/citer
+[submodule "defm"]
+	path = defm
+	url = https://github.com/UofUEpiBio/defm
 [submodule "epiworldR"]
 	path = epiworldR
-	url = https://github.com/uofuepibio/epiworldr
+	url = https://github.com/UofUEpiBio/epiworldR
 [submodule "epiworldRShiny"]
 	path = epiworldRShiny
-	url = https://github.com/uofuepibio/epiworldrshiny
+	url = https://github.com/UofUEpiBio/epiworldRShiny
