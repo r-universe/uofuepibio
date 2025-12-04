@@ -21,3 +21,6 @@
 [submodule "epiworldRShiny"]
 	path = epiworldRShiny
 	url = https://github.com/UofUEpiBio/epiworldRShiny
+[submodule "measles"]
+	path = measles
+	url = https://github.com/UofUEpiBio/measles
