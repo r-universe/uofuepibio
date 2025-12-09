@@ -24,3 +24,8 @@
 [submodule "measles"]
 	path = measles
 	url = https://github.com/UofUEpiBio/measles
+[submodule "multigroup.vaccine"]
+	path = multigroup.vaccine
+	url = https://github.com/EpiForeSITE/multigroup-vaccine
+	branch = shortcreek-model
+	registered = false

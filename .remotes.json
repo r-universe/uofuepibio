@@ -11,5 +11,12 @@
     "via": ["measles"],
     "branch": "copilot/remove-measles-models",
     "from": "measles"
+  },
+  {
+    "package": "multigroup.vaccine",
+    "url": "https://github.com/EpiForeSITE/multigroup-vaccine",
+    "via": ["measles"],
+    "branch": "shortcreek-model",
+    "from": "measles"
   }
 ]
