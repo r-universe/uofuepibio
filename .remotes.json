@@ -9,7 +9,7 @@
     "package": "epiworldR",
     "url": "https://github.com/UofUEpiBio/epiworldR",
     "via": ["measles"],
-    "branch": "copilot/remove-measles-models",
+    "branch": "main",
     "from": "measles"
   },
   {
