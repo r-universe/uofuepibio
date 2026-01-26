@@ -4,19 +4,5 @@
     "url": "https://github.com/USCBiostats/barryr",
     "via": ["defm"],
     "from": "defm"
-  },
-  {
-    "package": "epiworldR",
-    "url": "https://github.com/UofUEpiBio/epiworldR",
-    "via": ["measles"],
-    "branch": "main",
-    "from": "measles"
-  },
-  {
-    "package": "multigroup.vaccine",
-    "url": "https://github.com/EpiForeSITE/multigroup-vaccine",
-    "via": ["measles"],
-    "branch": "shortcreek-model",
-    "from": "measles"
   }
 ]
